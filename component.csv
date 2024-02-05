@@ -1,0 +1,5 @@
+Functionality,Location (Cell#)
+Read/Write CSV,#1
+User Interaction,#4
+SQL table creation,"#2, #3"
+Plot generation,#17
